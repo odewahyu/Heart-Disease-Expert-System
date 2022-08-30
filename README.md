@@ -1,16 +1,3 @@
-# sistem_pakar_app
+# Heart Disease Expert System
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mobile application using Flutter/Dart to detect heart disease based on symptoms experienced by the user. It has several features including show and search hospital data like phone number and location, then heart disease description data.
